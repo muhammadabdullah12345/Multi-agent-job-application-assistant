@@ -6,7 +6,7 @@ langchain-groq==0.3.2
 langchain-community==0.3.23
 
 # LangSmith (observability/tracing)
-langsmith==0.3.42
+# langsmith==0.3.42
 
 # Groq SDK
 groq==0.24.0
