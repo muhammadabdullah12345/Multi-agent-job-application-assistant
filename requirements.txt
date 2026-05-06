@@ -1,0 +1,26 @@
+# Core LangGraph & LangChain
+langgraph==0.2.73
+langchain==0.3.25
+langchain-core==0.3.58
+langchain-groq==0.3.2
+langchain-community==0.3.23
+
+# LangSmith (observability/tracing)
+langsmith==0.3.42
+
+# Groq SDK
+groq==0.24.0
+
+# PDF Parsing
+pdfplumber==0.11.4
+pymupdf==1.25.5
+
+# Streamlit UI
+streamlit==1.45.0
+
+# Environment Variables
+python-dotenv==1.1.0
+
+# Utilities
+pydantic==2.11.4
+typing-extensions==4.13.2
